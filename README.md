@@ -1,7 +1,7 @@
-### Hi there 👋
+
 
 ### Hi there 👋, my name is Anthony
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 A self-motivated professional with huge knowledge and proficiency in JavaScript/jQuery, HTML , CSS,  Bootstrap, Materialize, Java, MySQL, Apache, Spring Boot as well as strong skills and ability in writing clean and efficient code.
 
