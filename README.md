@@ -20,7 +20,5 @@ Skills: jQuery / MySQL / JS / HTML / CSS/ Spring Boot/ Bootstrap/Materialize
 
 
 
-![GitHub metrics](https://metrics.lecoq.io/AnthonyVillegas87)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AnthonyVillegas87)  
 
