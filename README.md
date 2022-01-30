@@ -7,7 +7,7 @@ A self-motivated professional with huge knowledge and proficiency in JavaScript/
 
 Skills: jQuery / MySQL / JS / HTML / CSS/ Spring Boot/ Bootstrap/Materialize
 
-- 🔭 I’m currently working on BookAlert Capstone Project! 
+- 🔭 I’m currently working on War Room League API! 
 - 🌱 I’m currently learning React  
 - ⚡ Fun fact: Coding Rules!!!! 
 
