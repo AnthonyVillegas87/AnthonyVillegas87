@@ -3,9 +3,9 @@
 ### Hi there 👋, my name is Anthony
 
 
-A self-motivated professional with huge knowledge and proficiency in JavaScript/jQuery, HTML , CSS,  Bootstrap, Materialize, Java, MySQL, Apache, Spring Boot as well as strong skills and ability in writing clean and efficient code.
+A self-motivated professional with huge knowledge and proficiency in JavaScript, jQuery, HTML , CSS,  Bootstrap, Materialize, .NET, C#, Java, MySQL, MS SQL Server, Spring Boot as well as strong skills and ability in writing clean and efficient code.
 
-Skills: jQuery / MySQL / JS / HTML / CSS/ Spring Boot/ Bootstrap/Materialize
+Skills: jQuery / MySQL / JS / HTML / CSS/ Spring Boot / Bootstrap / Materialize
 
 - 🔭 I’m currently working on War Room League API! 
 - 🌱 I’m currently learning React  
